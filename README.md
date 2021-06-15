@@ -9,6 +9,7 @@ Currently honing my skills on:
   - jQuery
   - PHP
   - MySQL
+
 Planning to learn:
   - Bootstrap
   - React
